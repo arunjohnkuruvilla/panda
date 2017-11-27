@@ -56,3 +56,6 @@ pri_simple
 loaded
 wintrospection
 pri_trace
+hook
+hook_cpp
+cfi
